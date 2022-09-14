@@ -1,0 +1,22 @@
+.titlu{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: brown;
+    font-weight: bold;
+    align-self: start;
+}
+#text1{
+    font-weight:bolder ;
+    color: green;
+}
+#semititlu{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+}
+.tabel, td {
+    border: 1px black solid; 
+    border-collapse: collapse;
+    padding: 10px;
+    text-align:center;
+
+}

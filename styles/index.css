@@ -8,6 +8,12 @@ nav{
     margin-top: 50px;    
 }
 
+#linie{
+    border-left: 2px solid black;
+    height: 385px;
+    position: absolute;
+    left: 8%;
+}
 
 .main{
     width: 500;
