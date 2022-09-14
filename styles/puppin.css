@@ -1,0 +1,14 @@
+h1{
+    color: red;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+p{
+    color: red;
+    font-weight: bold;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
